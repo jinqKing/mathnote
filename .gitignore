@@ -1,0 +1,5 @@
+*.log
+/ltximg/
+*.aux
+*.toc
+*.out
